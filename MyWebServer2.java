@@ -4,8 +4,6 @@ import java.util.*;
 import java.io.*;
 import java.net.*;
 
-/*
-afdada */
 
 public class MyWebServer2 {
 
